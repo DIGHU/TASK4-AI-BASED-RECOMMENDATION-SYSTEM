@@ -1,18 +1,18 @@
-# TASK4-AI-BASED-RECOMMENDATION-SYSTEM
+* TASK4-AI-BASED-RECOMMENDATION-SYSTEM
 
-# Company: CODTECH IT SOLUTIONS
+ * Company:CODTECH IT SOLUTIONS
 
-# Name: Dirghayush Umakant Sogale
+* Name: Dirghayush Umakant Sogale
 
-# Intern ID: CITS0D178
+* Intern ID: CITS0D178
 
-# Domain: Artificial Intelligence / Recommendation Systems
+ * Domain: Artificial Intelligence / Recommendation Systems
 
-# Duration: 4 Weeks
+* Duration: 4 Weeks
 
-# Mentor: Neela Santosh
+* Mentor: Neela Santosh
 
-# DESCRIPTION OF TASK:
+*  DESCRIPTION OF TASK:
 
 The aim of this task was to build a basic AI-based recommendation system that can suggest relevant items to users based on their preferences. The recommendation engine demonstrates the practical application of machine learning and data processing to analyze user behavior and provide intelligent suggestions.
 In this project, I implemented a content-based filtering model using Python. The system used a dataset (for example, a list of movies with features like genre, rating, and keywords). The model computed similarity between items using the cosine similarity metric based on text feature vectors.
